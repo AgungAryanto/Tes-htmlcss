@@ -1,0 +1,9 @@
+body{
+  background-color: skyblue;
+  padding: 10px;
+}
+h1 p{
+  background-color: yellow;
+  color: green;
+  display: inline;
+}
